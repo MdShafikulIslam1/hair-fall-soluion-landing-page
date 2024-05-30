@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "চুলের বৃদ্ধির জন্য Hair Surge Shampoo",
-  description: "mdmahikaishar <mahikaishar@gmail.com>",
+  description: "md shafikul islam <mdshafikuli421@gmail.com>",
 };
 
 export default function RootLayout({
